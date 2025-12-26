@@ -1,0 +1,10 @@
+
+file_format: 1
+
+id: mi_teclado
+
+name: Mi Teclado 4x3
+
+type: shield
+
+board: nice_nano_v2
